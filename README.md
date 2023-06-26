@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **nagaruthvik66@gmail.com**
 
-- ⚡ **Coding my way through the digital realm** 🌐
+- ⚡ Coding my way through the digital realm 🌐
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
