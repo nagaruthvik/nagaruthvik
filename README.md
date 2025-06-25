@@ -57,7 +57,7 @@
 
 ### ⚡ Quote that hits different
 > “Your mind is programmable — if you’re not programming it, someone else will.”  
-> – *Uncle ChatGPT probably*
+
 
 ---
 
