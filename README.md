@@ -1,80 +1,66 @@
-# **🌟 Naga Ruthvik | MERN Stack Sorcerer & Deep Learning Enthusiast**  
+<h1 align="center">Hey there! 👋 I'm <span style="color:#FFD700;">R Naga Ruthvik</span></h1>
+<h3 align="center">🧠 Deep Learning Explorer | 💻 MERN Stack Artisan | 🇮🇳 From India, with Code</h3>
 
-<div align="center">  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI%2FML+Explorer;Open-Source+Contributor;Problem+Solver" alt="Typing SVG" />  
-</div>  
-
----
-
-### **🔥 Tech Alchemist | Turning Code into Gold**  
-**MERN Stack Wizard** 🧙‍♂️ | **Python & Deep Learning Enthusiast** 🤖 | **Crafting Scalable & Intelligent Web Apps**  
-
-<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" />  
-
-- 🚀 **Building:** AI-powered web applications with React, Node.js & TensorFlow  
-- 🌱 **Learning:** Advanced Deep Learning (Transformers, GANs) & Cloud Architecture  
-- 💡 **Passionate About:** Open-source, hackathons, and algorithmic problem-solving  
-- 📫 **Reach Me:** [nagaruthvik66@gmail.com](mailto:nagaruthvik66@gmail.com)  
-- ⚡ **Fun Fact:** I automate my life with Python scripts (even my coffee machine!)  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Crafting+code+that+feels+like+magic;Transforming+ideas+into+interfaces;Python+%7C+JavaScript+%7C+MERN+%7C+DL+%7C+SQL" alt="Typing SVG" />
+</p>
 
 ---
 
-## **🛠️ Tech Stack**  
-
-### **Frontend & Backend**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
-
-### **AI/ML & Data Science**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)  
-
-### **DevOps & Tools**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" alt="Developer at work"/>
+</p>
 
 ---
 
-## **📊 GitHub Stats & Trophies**  
+### ✨ Who Am I?
 
-<div align="center">  
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=nagaruthvik&theme=radical&hide_border=true&border_radius=6)](https://git.io/streak-stats)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nagaruthvik&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=nagaruthvik&theme=onedark&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)  
-
-</div>  
+- 🧙‍♂️ Just a guy who turns coffee ☕ into full-stack web apps and deep learning models.
+- 💥 MERN Stack + Python + Keras = My Happy Place.
+- 🧩 Problem solver on CodeChef, HackerRank, and LeetCode (when the bugs aren’t solving me).
+- 🌱 Currently building a few side projects that involve emotion AI, language translation, and UI magic.
 
 ---
 
-## **🚀 Let’s Connect!**  
-
-<div align="center">  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)  
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/nagaruthvik)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/leetcode/)  
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/nagaruthvik66)  
-
-</div>  
+### 🔧 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,mysql,pandas,scikit-learn" />
+</p>
 
 ---
 
-### **🎨 Quote of the Day**  
-> *"First, solve the problem. Then, write the code."*  
-> **– John Johnson**  
+### 📈 Ruthvik on GitHub
 
-<div align="center">  
-  <img src="https://komarev.com/ghpvc/?username=nagaruthvik&label=Profile%20Views&color=blueviolet&style=flat" alt="nagaruthvik" />  
-</div>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nagaruthvik&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagaruthvik&layout=compact&theme=tokyonight" height="180"/>
+</div>
 
----  
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nagaruthvik&theme=tokyonight" />
+</div>
 
-**✨ Thanks for stopping by! Let’s build something amazing together.** 🚀
+---
+
+### 🌐 Let’s Connect
+
+<p align="center">
+  <a href="https://stackoverflow.com/users/22133123"><img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+  <a href="https://kaggle.com/nagaruthvik"><img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/nagaruthvik66"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/nagaruthvik66"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://www.leetcode.com/leetcode"><img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://www.hackerearth.com/nagaruthvik66"><img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white"/></a>
+</p>
+
+---
+
+### ⚡ Quote that hits different
+> “Your mind is programmable — if you’re not programming it, someone else will.”  
+> – *Uncle ChatGPT probably*
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
